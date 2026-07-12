@@ -13,9 +13,9 @@ const Hero = () => {
             Building scalable web applications and solving algorithmic challenges with clean, efficient code.
           </p>
           <div className="hero-cta">
-            <a href="#resume" className="btn btn-primary">Resume</a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="btn btn-outline">GitHub</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="btn btn-outline">LinkedIn</a>
+            <a href="https://drive.google.com/file/d/1E0TVFVq8UKSLJXHajJzkon-A6LtJEZp6/view?usp=drive_link" className="btn btn-primary">Resume</a>
+            <a href="https://github.com/Gautamr-5" target="_blank" rel="noopener noreferrer" className="btn btn-outline">GitHub</a>
+            <a href="www.linkedin.com/in/gautamraj5" target="_blank" rel="noopener noreferrer" className="btn btn-outline">LinkedIn</a>
             <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" className="btn btn-outline">LeetCode</a>
           </div>
         </div>
