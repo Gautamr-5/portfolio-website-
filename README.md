@@ -1,16 +1,83 @@
-# React + Vite
+# Gautam Raj - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, highly aesthetic, and responsive single-page developer portfolio built to showcase my skills, experience, projects, and achievements. Designed with a premium dark theme, glassmorphism UI, and smooth micro-animations.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Link to Live Demo] *(Add your Vercel/Netlify deployment link here once deployed)*
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Modern & Premium Design**: Custom Vanilla CSS with dynamic gradients and a sleek dark mode.
+- **Glassmorphism UI**: Beautiful frosted-glass effects on cards and navigation.
+- **Interactive Animations**: Scroll-triggered entry animations and smooth hover effects.
+- **Fully Responsive**: Flawless experience across desktops, tablets, and mobile devices.
+- **Section Highlights**:
+  - **Hero**: Striking introduction and quick links.
+  - **Tech Stack**: Categorized skill grid.
+  - **Projects**: Detailed feature cards with image overlays and links.
+  - **Experience & Education**: Clean timeline layout.
+  - **Achievements**: Hackathon wins and competitive programming stats.
+  - **Contact**: Functional contact form and social links.
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Framework**: React.js
+- **Build Tool**: Vite
+- **Styling**: Vanilla CSS (Custom Design System)
+- **Typography**: Outfit (Google Fonts)
+
+## 💻 Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your system.
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gautamr-5/portfolio-website-.git
+   ```
+
+2. Navigate into the project directory:
+   ```bash
+   cd portfolio-website-
+   ```
+
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit `http://localhost:5173` to view the app!
+
+## 🚢 Deployment
+
+This project is optimized for incredibly fast deployment on platforms like Vercel, Netlify, or Cloudflare Pages. 
+
+To build the project for production, run:
+```bash
+npm run build
+```
+This will generate an optimized `dist` folder ready to be served.
+
+## 👨‍💻 Author
+
+**Gautam Raj**
+- LinkedIn: [Your LinkedIn Profile URL]
+- GitHub: [https://github.com/Gautamr-5](https://github.com/Gautamr-5)
+- LeetCode: [Your LeetCode URL]
+
+## 📝 License
+
+This project is open source and available under the MIT License.
