@@ -1,0 +1,27 @@
+.achievements-section {
+  position: relative;
+  background-color: var(--bg-tertiary);
+}
+
+.achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+}
+
+.achievement-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 24px;
+}
+
+.achievement-icon {
+  font-size: 2rem;
+}
+
+.achievement-text {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}

@@ -1,0 +1,27 @@
+.about-section {
+  position: relative;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.about-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  font-size: 1.125rem;
+  color: var(--text-primary);
+}
+
+.bullet {
+  font-size: 1.2rem;
+  margin-top: 2px;
+}

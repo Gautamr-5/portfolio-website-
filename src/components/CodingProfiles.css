@@ -1,0 +1,26 @@
+.profiles-section {
+  position: relative;
+}
+
+.profiles-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.profile-btn {
+  padding: 16px 32px;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-align: center;
+  color: var(--text-primary);
+  text-decoration: none;
+  min-width: 180px;
+}
+
+.profile-btn:hover {
+  background: var(--accent-gradient);
+  color: white;
+  border-color: transparent;
+}
