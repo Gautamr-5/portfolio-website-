@@ -11,8 +11,8 @@ const Contact = () => {
             <h3>Contact Information</h3>
             <p>Feel free to reach out to me for any opportunities or collaborations.</p>
             <ul className="contact-details">
-              <li><span>Email:</span> gautam@example.com</li>
-              <li><span>Phone:</span> +91 1234567890</li>
+              <li><span>Email:</span> gautamprimary5@gmail.com</li>
+              <li><span>Phone:</span> +91 9905149170</li>
               <li><span>Location:</span> Patna, India</li>
             </ul>
             <div className="contact-socials">
