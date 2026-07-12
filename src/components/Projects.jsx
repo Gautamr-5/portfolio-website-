@@ -18,17 +18,10 @@ const Projects = () => {
       description: 'A comprehensive college marketplace for students to buy, sell, and interact.',
       features: ['College marketplace', 'Authentication', 'Chat', 'Search', 'Image Upload'],
       tech: ['MERN Stack'],
-      github: '#',
-      live: '#'
+      github: 'https://github.com/Pratham2411/nit_patna_market',
+      live: 'https://nit-patna-market.vercel.app/'
     },
-    {
-      title: 'Interactive Question Sheet',
-      image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-      description: 'A dynamic interface for managing and organizing questions efficiently.',
-      features: ['Drag and Drop', 'Dynamic Question Management', 'Responsive UI'],
-      tech: ['React', 'CSS'],
-      github: '#'
-    }
+  
   ];
 
   return (
