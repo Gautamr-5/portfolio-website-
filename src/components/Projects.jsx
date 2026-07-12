@@ -4,13 +4,13 @@ import './Projects.css';
 const Projects = () => {
   const projects = [
     {
-      title: 'OS Scheduling Simulator',
+      title: 'OS Simulator',
       image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       description: 'An interactive simulator for multiple CPU scheduling algorithms with performance metrics.',
       features: ['Multiple CPU scheduling algorithms', 'Interactive Gantt Chart', 'Performance Metrics', 'Modular C++ Backend'],
       tech: ['C++', 'React', 'Next.js', 'TypeScript'],
-      github: '#',
-      live: '#'
+      github: 'https://github.com/Gautamr-5/OS-Simulator',
+      live: 'https://os-simulator-neon.vercel.app/'
     },
     {
       title: 'NIT Patna Market',
