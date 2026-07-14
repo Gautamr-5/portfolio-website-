@@ -12,7 +12,7 @@ const Experience = () => {
             <div className="timeline-content">
               <div className="timeline-header">
                 <h3>DSA Intern</h3>
-                <span className="timeline-company text-gradient">InternPe</span>
+                <span className="timeline-company">InternPe</span>
               </div>
               <ul className="timeline-details">
                 <li>Developed C++ projects</li>

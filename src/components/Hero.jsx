@@ -1,5 +1,6 @@
 import React from 'react';
 import './Hero.css';
+import heroImg from '../assets/hero.jpg';
 
 const Hero = () => {
   return (
@@ -20,9 +21,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-image-wrapper animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-          <div className="hero-image-placeholder">
-            <span>Photo / Illustration</span>
-          </div>
+          <img src={heroImg} alt="Gautam Raj" className="hero-image" />
         </div>
       </div>
     </section>
